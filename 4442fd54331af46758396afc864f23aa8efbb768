@@ -1,0 +1,1 @@
+{"jobID":"e9e36c67-1875-52c2-388c-b8d2d2cf0b9d","spec":{"type":"policy","cause":{"Message":"","User":"Abdul Khan \u003cabdulk@gmail.com\u003e"},"spec":{"dev:deployment/podinfo":{"add":{"automated":"true"},"remove":null}}},"result":null}
